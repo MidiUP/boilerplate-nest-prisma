@@ -1,6 +1,5 @@
 {
     "*.ts": [
-      "eslint 'src/**/*.ts' --quiet",
-      "eslint 'test/**/*.ts' --quiet"
+      "eslint --quiet"
     ]
-  }
+}
